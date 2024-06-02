@@ -18,7 +18,7 @@ const VideoBackground = ({ movieId }) => {
         //   "?si=DhYDlzhBa4GXQ2y8"
         // }
         src={
-          "https://www.youtube.com/embed/_inKs4eeHiI?si=hEM3ly4a9JBN7ACS" +
+          "https://www.youtube.com/embed/Kdr5oedn7q8?si=K7YacVsSnwl7L439" +
           "?&autoplay=1&mute=1"
         }
         title="YouTube video player"
